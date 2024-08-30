@@ -1,0 +1,5 @@
+export enum REDUCERS {
+  STOCK = 'STOCK',
+  NOTIFICATION = 'NOTIFICATION',
+}
+
